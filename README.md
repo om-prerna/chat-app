@@ -1,4 +1,4 @@
 # chat-app
 
 A peer to peer chatting application based on socket.io, express and sails node projects.
-[https://img.shields.io/badge/Chat--app-1.0-brightgreen.svg](www.google.com)
+This site was built using [GitHub Pages](https://pages.github.com/).
